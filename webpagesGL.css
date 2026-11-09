@@ -1,0 +1,22 @@
+/*
+ *Name: Emir Adali
+ *UnityID: eadali
+ *Date: 11/8/2026
+ *Assignment: guided lab 4
+ *Description: This is a webpage about Emir Adali.
+ */
+
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
